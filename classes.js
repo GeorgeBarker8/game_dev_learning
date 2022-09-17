@@ -3,8 +3,8 @@ class Boundary {
     static height = 48
     constructor({position}) {
         this.position = position
-        this.width = 40 // 48 standart
-        this.height = 40 // 48 standart 
+        this.width = 42 // 48 standart
+        this.height = 42 // 48 standart 
     }
 
     draw() {
